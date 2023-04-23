@@ -1,1 +1,1 @@
-# Yes-Bank-Share-Price-Prediction-machine-learning
+# Yes-Bank-Stock-Price-Prediction-machine-learning
